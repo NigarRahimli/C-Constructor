@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lesson10\Lesson10\bin\Debug\net7.0\Lesson10.exe
+C:\Users\User\source\repos\Lesson10\Lesson10\bin\Debug\net7.0\Lesson10.deps.json
+C:\Users\User\source\repos\Lesson10\Lesson10\bin\Debug\net7.0\Lesson10.runtimeconfig.json
+C:\Users\User\source\repos\Lesson10\Lesson10\bin\Debug\net7.0\Lesson10.dll
+C:\Users\User\source\repos\Lesson10\Lesson10\bin\Debug\net7.0\Lesson10.pdb
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.AssemblyInfo.cs
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.dll
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\refint\Lesson10.dll
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.pdb
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\Lesson10.genruntimeconfig.cache
+C:\Users\User\source\repos\Lesson10\Lesson10\obj\Debug\net7.0\ref\Lesson10.dll
